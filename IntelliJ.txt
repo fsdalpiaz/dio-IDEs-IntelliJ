@@ -1,0 +1,45 @@
+Atalhos IntelliJ
+
+Para abrir opções no menu de inserção:
+Seleciona o item e Alt + Insert
+
+Para comentar o bloco:
+Ctrl + Shift + /
+
+Para comentar linha a linha
+Ctrl + C
+
+Para importar um pacote automaticamente:
+Alt + Enter
+
+Para excluir pacotes que não estão sendo usados:
+Ctrl + Alt + O (letra)
+
+Executar programa (main)
+Shift + F10
+
+Deletar linha
+Ctrl + Y
+
+Para refatorar:
+Shift + F6
+
+Só editor de texto: 
+Shift + F12
+
+Reorganizar automaticamente
+Ctrl + Alt + L
+
+Replicar uma linha
+Cursor em cima da linha, Ctrl + D
+
+Trocar linha de posição
+Ctrl + Shift + Seta p/ cima ou p/ baixo
+
+
+
+
+
+
+
+
